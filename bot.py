@@ -86,4 +86,5 @@ async def unban(ctx, *, member):
 #     if filename.endswith('.py'):
 #         client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run("NzgzMzA3MzI3MTU5MTQwMzcz.X8Y1yw.PQZa1y-xb2iZ3fOkLoh4XJFgbJ4")
+client.run("token
+           ")
